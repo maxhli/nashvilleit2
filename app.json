@@ -1,0 +1,14 @@
+{
+  "name": "nashvilleit2",
+  "description": "Database for Go Programming Language",
+  "keywords": [
+    "nashvilleit2",
+    "go",
+    "sample",
+    "example"
+  ],
+  "image": "heroku/go:1.6",
+  "mount_dir": "src/github.com/maxhli/nashvilleit2",
+  "website": "http://github.com/maxhli/nashvilleit2",
+  "repository": "http://github.com/maxhli/nashvilleit2"
+}
